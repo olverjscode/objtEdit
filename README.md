@@ -135,7 +135,7 @@ Após salvar, o arquivo `scriptfiles/saveObjtEdit.txt` é gerado com o código p
 ```pawn
 // ============================================================
 //   ObjtEdit  |  Objeto Editor  -  BY @olverjs
-//   https://github.com/olveirajs
+//   https://github.com/olverjscode
 // ============================================================
 
 // ------------------------------------------------------------
