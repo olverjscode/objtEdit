@@ -1,7 +1,7 @@
 ============================================================
   ObjtEdit — Object Editor for SA-MP
-  Copyright (c) 2026 @olverjs (olveirajs) — LostWay Studios
-  https://github.com/olveirajs
+  Copyright (c) 2026 @olverjs (olverjscode) — LostWay Studios
+  https://github.com/olverjscode
 ============================================================
 
 LICENÇA DE USO PESSOAL — TODOS OS DIREITOS RESERVADOS
@@ -61,7 +61,7 @@ CONTATO E AUTORIZAÇÃO
 Para solicitar permissão além do escopo desta licença,
 entre em contato com o autor:
 
-  GitHub : https://github.com/olveirajs
+  GitHub : https://github.com/olverjscode
   Projeto: ObjtEdit — LostWay Studios
 
 ============================================================
