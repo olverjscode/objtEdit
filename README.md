@@ -22,15 +22,15 @@
 
 > **Menu principal do editor**
 
-![Menu](https://github.com/olveirajs/objtEdit/raw/main/preview/menu.png)
+![Menu](https://github.com/olverjscode/objtEdit/raw/main/preview/menu.png)
 
 > **HUD de edição em tempo real**
 
-![HUD](https://github.com/olveirajs/objtEdit/raw/main/preview/hud.png)
+![HUD](https://github.com/olverjscode/objtEdit/raw/main/preview/hud.png)
 
 > **Menu de escolha do nome do projeto**
 
-![Save](https://github.com/olveirajs/objtEdit/raw/main/preview/save.png)
+![Save](https://github.com/olverjscode/objtEdit/raw/main/preview/save.png)
 
 ---
 
@@ -155,7 +155,7 @@ SetPlayerAttachedObject(playerid, 0, 19572, 1,  0.0530, -0.2199, -0.1700,  0.000
 
 | Dev | GitHub |
 |-----|--------|
-| **@olverjs** | [github.com/olveirajs](https://github.com/olveirajs) |
+| **@olverjs** | [github.com/olveirajs](https://github.com/olverjscode) |
 | **@saresjs** | [github.com/Saresjs](https://github.com/Saresjs) |
 
 > **LostWay Studios**
@@ -183,7 +183,7 @@ Você NÃO PODE:
 O arquivo .pwn (código-fonte) não é distribuído com este repositório.
 Qualquer uso além do descrito acima requer autorização prévia por escrito.
 
-Para contato: github.com/olveirajs
+Para contato: github.com/olverjscode
 ```
 
 ---
